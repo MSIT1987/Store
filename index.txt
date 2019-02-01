@@ -3,7 +3,7 @@ salam
 khoobi
 branch dev
 hello it's new from branch far 
-
+echo hello world
 from bracnh far
 
 faranesh with me
